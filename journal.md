@@ -4,3 +4,4 @@ Format : date | thème | sujet | source | URL image | media id Instagram
 
 - 2026-10-12 | Financement | Praticien du bien-être : AGEFICE ou FIFPL ? | Copeps, AGEFICE (critères) | https://raphael-vasseur.fr/wp-content/uploads/2026/10/post-agefice-fifpl.jpg | 18455129938192509
 - 2026-10-12 | Visibilité Google | Avis Google : 3 leçons à copier | Geolid, étude Services à la personne (juillet 2026) | https://raw.githubusercontent.com/rvconsulting-code/rv-instagram-visuels/main/2026/10/2026-10-12-avis-google-3-lecons.jpg | 18180802549442388
+- 2026-10-14 | Visibilité Google | Bouton WhatsApp sur la fiche Google : l'activer en 3 étapes | Search Engine Roundtable (7 oct. 2026), aide Google Business Profile | https://raw.githubusercontent.com/rvconsulting-code/rv-instagram-visuels/main/2026/10/2026-10-14-whatsapp-fiche-google.jpg | 17893630800437168
