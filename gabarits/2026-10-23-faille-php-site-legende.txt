@@ -1,0 +1,19 @@
+Votre site internet tourne peut-être sur une version de PHP qui vient d'être déclarée vulnérable. 🔒
+
+PHP, c'est le moteur qui fait fonctionner la grande majorité des sites WordPress, y compris ceux de nombreux naturopathes, sophrologues, praticiens du bien-être et artisans. Cette semaine, deux failles critiques baptisées « PHP2Shell » ont été corrigées en urgence : mal protégé, un serveur pourrait être pris en main à distance. Voici quoi faire, sans être technicien :
+
+👉 Repérez votre version : dans WordPress, menu Outils › Santé du site › onglet Informations › rubrique Serveur.
+👉 Écrivez à votre hébergeur ou à la personne qui gère votre site : « Le correctif PHP2Shell est-il installé sur mon hébergement ? » Les versions corrigées sont 8.2.35, 8.3.36, 8.4.27 et 8.5.12.
+👉 Vous êtes en PHP 8.1 ou plus ancien ? Ces versions ne reçoivent plus de mises à jour de sécurité : demandez le passage à une version encore suivie.
+👉 Profitez-en pour lancer une sauvegarde complète de votre site.
+
+Bon à savoir : si votre site a été créé sur une plateforme clé en main, la mise à jour relève de la plateforme. Et si votre site doit être mis en pause le temps du correctif, Google conseille d'afficher une page « maintenance » (code 503) plutôt qu'une erreur, pour ne pas perdre votre référencement.
+
+Vous ne savez pas qui gère votre site ni où il est hébergé ? Écrivez-moi « SITE » en message privé, je vous aide à y voir clair. 📩
+
+Source : Search Engine Roundtable, Centre canadien pour la cybersécurité
+
+—
+RV Consulting · Formations digitales certifiées Qualiopi · Lyon
+
+#siteinternet #wordpress #securiteinformatique #cybersecurite #conseildigital #naturopathe #sophrologue #hypnotherapeute #massagebienetre #praticienbienetre #artisan #independant #lyon #rhonealpes
